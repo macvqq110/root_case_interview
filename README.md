@@ -1,1 +1,1 @@
-# root_case_interview
+# 实训面试宝典，以及相关一些面试题资料
